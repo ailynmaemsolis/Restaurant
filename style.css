@@ -9,6 +9,7 @@ html{
 }
 body{
 	overflow-x: hidden;
+	background-color: #bf6cf;
 }
 .nav-item{
 	margin-right: 10px;
@@ -43,7 +44,9 @@ input[type=text], select, textarea {
   resize: vertical;
 }
 footer{
-	background-color:#636363;
+	border-radius: 20px;
+	background-color:#bdc2af;
 	color: black;
 	padding-bottom: 30px;
+	padding-top: 20px;
 }
